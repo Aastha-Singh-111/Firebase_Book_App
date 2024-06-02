@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Firebase_Book_App/static/css/main.f0d685eb.css",
+    "main.js": "/Firebase_Book_App/static/js/main.04b810e3.js",
+    "static/js/787.dced35c3.chunk.js": "/Firebase_Book_App/static/js/787.dced35c3.chunk.js",
+    "index.html": "/Firebase_Book_App/index.html",
+    "main.f0d685eb.css.map": "/Firebase_Book_App/static/css/main.f0d685eb.css.map",
+    "main.04b810e3.js.map": "/Firebase_Book_App/static/js/main.04b810e3.js.map",
+    "787.dced35c3.chunk.js.map": "/Firebase_Book_App/static/js/787.dced35c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0d685eb.css",
+    "static/js/main.04b810e3.js"
+  ]
+}
